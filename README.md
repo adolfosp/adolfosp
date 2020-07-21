@@ -1,7 +1,7 @@
 ```
   function sayHello(){
   
-    ## OLÁ NOBRE VISITANTE
+   return OLÁ NOBRE VISITANTE
   }
 ``` 
 ![giphy](https://user-images.githubusercontent.com/39220517/88114334-02bbaa00-cb8a-11ea-8089-35b3ce92b992.gif)
