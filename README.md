@@ -1,6 +1,5 @@
 ### Hi there 👋
-![tenor](https://user-images.githubusercontent.com/39220517/87998267-cd518680-cacd-11ea-9778-659a5381b64f.gif)
-<!--
+![giphy](https://user-images.githubusercontent.com/39220517/88114334-02bbaa00-cb8a-11ea-8089-35b3ce92b992.gif)<!--
 **adolfosp/adolfosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
