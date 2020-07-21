@@ -1,8 +1,6 @@
 ### Hi there 👋
-![giphy](https://user-images.githubusercontent.com/39220517/88114334-02bbaa00-cb8a-11ea-8089-35b3ce92b992.gif)<!--
-**adolfosp/adolfosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![giphy](https://user-images.githubusercontent.com/39220517/88114334-02bbaa00-cb8a-11ea-8089-35b3ce92b992.gif)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
