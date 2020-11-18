@@ -5,7 +5,7 @@
    
   }
 ``` 
-![giphy](https://user-images.githubusercontent.com/39220517/88114334-02bbaa00-cb8a-11ea-8089-35b3ce92b992.gif)
+![giphy](https://user-images.githubusercontent.com/39220517/99599613-7657b180-29da-11eb-9fd4-ad11b934bf15.gif)
 
 
 #### 🔭 Atualmente trabalho como Analista de Suporte especificamente com a parte de Sincronismo
