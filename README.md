@@ -8,11 +8,9 @@
  [![JavaScript Badge](https://aleen42.github.io/badges/src/javascript.svg)]()
  [![Vue Badge](https://aleen42.github.io/badges/src/vue.svg)]()
  [![Node Badge](https://aleen42.github.io/badges/src/node.svg)]()
-
-
-
-
-
+ [![Grunt Badge](https://aleen42.github.io/badges/src/grunt.svg)]()
+ [![Npm Badge](https://aleen42.github.io/badges/src/npm.svg)]()
+ 
 ## Where to find me?
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/adolfosp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
