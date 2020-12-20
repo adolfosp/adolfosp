@@ -6,6 +6,9 @@
 ## I am learning
 
  [![JavaScript Badge](https://aleen42.github.io/badges/src/javascript.svg)]()
+ [![Vue Badge](https://aleen42.github.io/badges/src/vue.svg)]()
+ [![Node Badge](https://aleen42.github.io/badges/src/node.svg)]()
+
 
 
 
