@@ -1,8 +1,11 @@
 # Hi, I'm Adolfo Poiatti! :D
 
 ### Welcome to my little page🧐
-##### I am currently a support analyst
+##### I am a support analyst 
 
+## I am learning
+
+ [![JavaScript Badge](https://aleen42.github.io/badges/src/javascript.svg)]
 
 
 
