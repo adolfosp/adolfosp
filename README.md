@@ -6,9 +6,9 @@
 ##### I am a support analyst and I like the JavaScript stack. My goal is to become a full stack web developer
 
 #### Hobby
-- Listening to music while studying or reading 🎵🎵
-- Watch series 🎥🎥
-- Study T.I 📚📚
+- To listen music while study or read 🎵🎵
+- To watch series 🎥🎥
+- To study T.I 📚📚
 
 # I am learning
 
