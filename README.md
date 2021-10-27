@@ -13,7 +13,7 @@
 # I am learning
 
  [![JavaScript Badge](https://aleen42.github.io/badges/src/javascript.svg)]()
- [![Vue Badge](https://aleen42.github.io/badges/src/vue.svg)]()
+ [![Angular Badge](https://badges.aleen42.com/src/angular.svg)]()
  [![Node Badge](https://aleen42.github.io/badges/src/node.svg)]()
  [![Grunt Badge](https://aleen42.github.io/badges/src/grunt.svg)]()
  [![Npm Badge](https://aleen42.github.io/badges/src/npm.svg)]()
