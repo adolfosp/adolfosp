@@ -1,9 +1,6 @@
 # Hi, I'm Adolfo Poiatti! :D
 
 ### Welcome to my little page🧐
-# About me
-
-##### I am a support analyst and I like the JavaScript stack. My goal is to become a full stack web developer
 
 #### Hobby
 - To listen music while study or read 🎵🎵
