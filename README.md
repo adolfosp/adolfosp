@@ -3,9 +3,9 @@
 ### Welcome to my little page🧐
 
 #### Hobby
-- To listen music while study or read 🎵🎵
+- To listen music while study or CODE 🎵🎵
 - To watch series 🎥🎥
-- To study T.I 📚📚
+- To study I.T 📚📚
 
 # I am learning
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
