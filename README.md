@@ -8,12 +8,13 @@
 - To study T.I 📚📚
 
 # I am learning
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
- [![JavaScript Badge](https://aleen42.github.io/badges/src/javascript.svg)]()
- [![Angular Badge](https://badges.aleen42.com/src/angular.svg)]()
- [![Node Badge](https://aleen42.github.io/badges/src/node.svg)]()
- [![Grunt Badge](https://aleen42.github.io/badges/src/grunt.svg)]()
- [![Npm Badge](https://aleen42.github.io/badges/src/npm.svg)]()
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  
  [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
  [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
@@ -22,6 +23,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
  
+
 # Where to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
 [![Pinterest Badge](https://aleen42.github.io/badges/src/pinterest.svg?&link=https://www.linkedin.com/in/adolfo-poiatti-591b79150/)](https://br.pinterest.com/Fortaleza_da_Solidao/_saved/)
