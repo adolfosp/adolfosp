@@ -4,6 +4,7 @@
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
+[![My Web Site](https://awesome.re/badge.svg)](https://curriculoadolfopoiatti.netlify.app/#tabs1-conteudo)
 
 # I am learning 🖥️
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +30,9 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 # Where to find me ? 🔍
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
