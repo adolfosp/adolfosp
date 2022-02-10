@@ -1,11 +1,11 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5030&width=460&lines=Hello+!++I'm+Adolfo+Poiatti;I'm+a+.NET+Developer+at+Precis%C3%A3o+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5050&width=460&lines=Hello+!++I'm+Adolfo+Poiatti;I'm+a+.NET+Developer+at+Precis%C3%A3o+Sistemas)](https://git.io/typing-svg)
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 
-# I am learning
+# I am learning 🖥️
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -21,18 +21,18 @@
  
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
- 
- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-# Where to find me?
+# Where to find me ? 🔍
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
+
+# My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Benchmark.NET)](https://github.com/adolfosp/Back-Benchmark.NET)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-PatrimonioDev)](https://github.com/adolfosp/Front-PatrimonioDev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Front_Angular_API)](https://github.com/adolfosp/Back-Front_Angular_API)
 
 
-### Analytics ⚙️
+# Analytics ⚙️
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=radical)
+![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=radical)
