@@ -5,6 +5,7 @@
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 [![GitHub Streak](https://user-images.githubusercontent.com/39220517/153326420-59e3ab44-d3db-4a89-8fb8-c12708769e13.svg)](https://curriculoadolfopoiatti.netlify.app/#tabs1-conteudo)
+<br>
 
 # I am learning 🖥️
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,8 +40,8 @@
 
 # My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Benchmark.NET)](https://github.com/adolfosp/Back-Benchmark.NET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Front_Angular_API)](https://github.com/adolfosp/Back-Front_Angular_API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Benchmark.NET)](https://github.com/adolfosp/Back-Benchmark.NET)
 
 
 # Analytics ⚙️
