@@ -29,9 +29,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Benchmark.NET)](https://github.com/adolfosp/Back-Benchmark.NET)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=-Front-PatrimonioDev)](https://github.com/adolfosp/-Front-PatrimonioDev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-PatrimonioDev)](https://github.com/adolfosp/Front-PatrimonioDev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Front_Angular_API)](https://github.com/adolfosp/Back-Front_Angular_API)
 
-#
+
 ### Analytics ⚙️
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=radical)
