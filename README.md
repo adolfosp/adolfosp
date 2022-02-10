@@ -1,11 +1,9 @@
-# Hi, I'm Adolfo Poiatti! :D
 
-### Welcome to my little page🧐
 
-#### Hobby
-- To listen music while study or CODE 🎵🎵
-- To watch series 🎥🎥
-- To study I.T 📚📚
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5030&width=460&lines=Hello+!++I'm+Adolfo+Poiatti;I'm+a+.NET+Developer+at+Precis%C3%A3o+Sistemas)](https://git.io/typing-svg)
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+
 
 # I am learning
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,10 +30,5 @@
 
 #
 ### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfosp&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=adolfosp&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=adolfosp&hide_border=true)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=radical)
