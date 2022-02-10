@@ -27,6 +27,7 @@
 
 # Where to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Front_Angular_API)](https://github.com/adolfosp/Back-Front_Angular_API)
 
 #
 ### Analytics ⚙️
