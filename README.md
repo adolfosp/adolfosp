@@ -7,7 +7,7 @@
 [![GitHub Streak](https://user-images.githubusercontent.com/39220517/153326420-59e3ab44-d3db-4a89-8fb8-c12708769e13.svg)](https://curriculoadolfopoiatti.netlify.app/#tabs1-conteudo)
 <br>
 
-# I am learning 🖥️
+# I am improving 🖥️
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
