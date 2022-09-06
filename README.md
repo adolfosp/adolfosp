@@ -43,7 +43,7 @@
 
 # My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-Front_Angular_API)](https://github.com/adolfosp/Back-Front_Angular_API)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Chrome-Extension)](https://github.com/adolfosp/Front-Chrome-Extension)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
 
 
