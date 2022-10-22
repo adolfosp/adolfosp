@@ -46,7 +46,7 @@
 
 # My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Chrome-Extension)](https://github.com/adolfosp/Front-Chrome-Extension)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Back-PatrimonioDev)](https://github.com/adolfosp/Back-PatrimonioDev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid)](https://github.com/adolfosp/Front-Arkanoid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-PatrimonioDev)](https://github.com/adolfosp/Front-PatrimonioDev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
 
