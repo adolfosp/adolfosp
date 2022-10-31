@@ -55,8 +55,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/adolfosp)
-
 
 # Trophy Stats 🏆
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp)
