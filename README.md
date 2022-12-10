@@ -47,7 +47,6 @@
 # My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid)](https://github.com/adolfosp/Front-Arkanoid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React)](https://github.com/adolfosp/Front-GPT3-React)
 
 
 # Analytics ⚙️
