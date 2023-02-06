@@ -31,6 +31,7 @@
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure-79C6FF?style=for-the-badge&logo=AzureDevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-9400D3?style=for-the-badge&logo=Terraform&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
