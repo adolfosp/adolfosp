@@ -32,14 +32,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure-79C6FF?style=for-the-badge&logo=AzureDevops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-9400D3?style=for-the-badge&logo=Terraform&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%23000000.svg?style=for-the-badge&logo=circleci&logoColor=white)
+<img height="28" src="https://user-images.githubusercontent.com/39220517/154397996-3faf940f-a9ca-424d-917f-2e35e9b556c6.svg"/>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![CircleCI](https://img.shields.io/badge/circleci-%23000000.svg?style=for-the-badge&logo=circleci&logoColor=white)
-<img height="28" src="https://user-images.githubusercontent.com/39220517/154397996-3faf940f-a9ca-424d-917f-2e35e9b556c6.svg"/>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
