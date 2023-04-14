@@ -1,13 +1,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5050&width=460&lines=Hello+!++I'm+Adolfo+Poiatti;I'm+a+.NET+Developer+at+Precis%C3%A3o+Sistemas)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/39220517/231921855-a34f8c4f-1cfa-4acd-8f26-9e69703e9138.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/39220517/231923568-6bf8dec8-e0f0-4955-89f5-a570b981c117.png" align="right"
+     alt="" width="300" height="400">
 
 [![GitHub Streak](https://user-images.githubusercontent.com/39220517/153326420-59e3ab44-d3db-4a89-8fb8-c12708769e13.svg)](https://curriculoadolfopoiatti.netlify.app/#tabs1-conteudo)
-
-
-
 
 # I am improving 🖥️
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
