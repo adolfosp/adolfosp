@@ -47,20 +47,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
 
 # My Public Projects 🔥
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid)](https://github.com/adolfosp/Front-Arkanoid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange)](https://github.com/adolfosp/Front_DoctorStrange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React)](https://github.com/adolfosp/Front-GPT3-React)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator)](https://github.com/adolfosp/Front-Alpaca-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Arkanoid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange&theme=dark&hide_border=true)](https://github.com/adolfosp/Front_DoctorStrange)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-GPT3-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
 
 
 # Analytics ⚙️
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=radical)
-
-![Metrics](https://metrics.lecoq.io/adolfosp?template=terminal&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FSao_Paulo)
-
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfosp&langs_count=8&theme=dark&show_icons=true&hide_border=true)](https://github.com/adolfosp/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=dark&hide_border=true)
 
 # Trophy Stats 🏆
-![](https://github-profile-trophy.vercel.app/?username=adolfosp)
+![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
