@@ -63,3 +63,10 @@
 # Trophy Stats 🏆
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
+# Projects 🚧 
+
+<div>
+     <img src="https://github.com/adolfosp/adolfosp/assets/39220517/b61b12cf-ed10-4706-863a-627f2fbcd263" width=25 height=25/><br/>
+     <a href="https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd">Easy Link</a>
+</div>
+
