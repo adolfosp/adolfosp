@@ -64,11 +64,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
 # Projects 🚧 
+ ![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/81088094-65d1-4baa-a4b9-379de95ebff4)<br/>
+ <a href="https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd">Chrome Store</a>
 
-<div>
-     ![Sem título-1](https://github.com/adolfosp/adolfosp/assets/39220517/5fe6a93b-9cef-4435-a323-d2f6e3bf6882)
-
-     
-     <a href="https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd">Easy Link</a>
-</div>
 
