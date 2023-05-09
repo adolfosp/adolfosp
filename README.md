@@ -66,7 +66,9 @@
 # Projects 🚧 
 
 <div>
-     <img src="https://github.com/adolfosp/adolfosp/assets/39220517/b61b12cf-ed10-4706-863a-627f2fbcd263" width=25 height=25/><br/>
+     ![Sem título-1](https://github.com/adolfosp/adolfosp/assets/39220517/5fe6a93b-9cef-4435-a323-d2f6e3bf6882)
+
+     
      <a href="https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd">Easy Link</a>
 </div>
 
