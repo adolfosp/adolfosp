@@ -68,7 +68,5 @@
 [![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/81088094-65d1-4baa-a4b9-379de95ebff4)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
 
 
-[![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/81088094-65d1-4baa-a4b9-379de95ebff4)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
-
-
+[![Foo](https://github.com/adolfosp/adolfosp/assets/39220517/81088094-65d1-4baa-a4b9-379de95ebff4)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
 
