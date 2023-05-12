@@ -64,8 +64,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
 # Projects 🚧 
-[![PatrimonioDev](https://github.com/adolfosp/adolfosp/assets/39220517/e23cb1eb-575f-43a5-93b4-f76b8683edce)](https://patrimonio-ps.netlify.app/#/login)
-[![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/81088094-65d1-4baa-a4b9-379de95ebff4)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
-[![Alt text for broken image link](https://github-production-user-asset-6210df.s3.amazonaws.com/39220517/237146900-81088094-65d1-4baa-a4b9-379de95ebff4.png)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
+[![PatrimonioDev](https://github-production-user-asset-6210df.s3.amazonaws.com/39220517/238017747-e23cb1eb-575f-43a5-93b4-f76b8683edce.png)](https://patrimonio-ps.netlify.app/#/login)
+[![Easy-link](https://github-production-user-asset-6210df.s3.amazonaws.com/39220517/237146900-81088094-65d1-4baa-a4b9-379de95ebff4.png)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
 
 
