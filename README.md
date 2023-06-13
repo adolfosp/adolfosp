@@ -31,7 +31,6 @@
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure-79C6FF?style=for-the-badge&logo=AzureDevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-9400D3?style=for-the-badge&logo=Terraform&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-%23000000.svg?style=for-the-badge&logo=circleci&logoColor=white)
 <img height="28" src="https://user-images.githubusercontent.com/39220517/154397996-3faf940f-a9ca-424d-917f-2e35e9b556c6.svg"/>
 
