@@ -55,9 +55,9 @@
 
 
 # Analytics ⚙️
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfosp&langs_count=8&theme=dark&show_icons=true&hide_border=true)](https://github.com/adolfosp/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=dark&hide_border=true)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfosp&langs_count=8&theme=dark&show_icons=true&hide_border=true)](https://github.com/adolfosp/github-readme-stats)
 
 # Trophy Stats 🏆
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
