@@ -64,6 +64,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
 # Projects 🚧 
-[![PatrimonioDev](https://github-production-user-asset-6210df.s3.amazonaws.com/39220517/238188907-47a3cfbc-d2e2-48dd-8d9e-4bd92710a8fc.png)](https://patrimonio-ps.netlify.app/#/login)
-[![Easy-link](https://github-production-user-asset-6210df.s3.amazonaws.com/39220517/238188932-5048ff7c-aabc-4e87-b104-d58a22d26f89.png)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
-![modelo-projeto-github](https://github.com/adolfosp/adolfosp/assets/39220517/183d0db1-3d5e-49a1-8b14-5fc7cc72422a)
+[![PatrimonioDev](https://github.com/adolfosp/adolfosp/assets/39220517/6e3c8580-0e84-43c1-a04f-afcc11463f82)](https://patrimonio-ps.netlify.app/#/login)
+[![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/94135de0-4a91-47f1-98c5-c4ef3928db51)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
+![AvaliaFarma](https://github.com/adolfosp/adolfosp/assets/39220517/183d0db1-3d5e-49a1-8b14-5fc7cc72422a)
+![Code Docs](https://github.com/adolfosp/adolfosp/assets/39220517/4b908f24-c6a4-4be5-8886-16d035951a7e)
