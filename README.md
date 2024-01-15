@@ -52,18 +52,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-GPT3-React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
 
-
 # Analytics ⚙️
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=dark&hide_border=true)<br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfosp&langs_count=8&theme=dark&show_icons=true&hide_border=true)](https://github.com/adolfosp/github-readme-stats)
 
-
-
 # Trophy Stats 🏆
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
-# Projects 🚧 
+# My Private Projects 🚧 
 [![PatrimonioDev](https://github.com/adolfosp/adolfosp/assets/39220517/6e3c8580-0e84-43c1-a04f-afcc11463f82)](https://patrimonio-ps.netlify.app/#/login)
 [![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/94135de0-4a91-47f1-98c5-c4ef3928db51)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
 ![AvaliaFarma](https://github.com/adolfosp/adolfosp/assets/39220517/183d0db1-3d5e-49a1-8b14-5fc7cc72422a)
