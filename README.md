@@ -48,9 +48,9 @@
 
 # My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Arkanoid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front_DoctorStrange&theme=dark&hide_border=true)](https://github.com/adolfosp/Front_DoctorStrange)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-GPT3-React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Algorithm-Structure-Data&theme=dark&hide_border=true)](https://github.com/adolfosp/Algorithm-Structure-Data)
 
 # Analytics ⚙️
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
