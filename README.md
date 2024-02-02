@@ -4,53 +4,48 @@
 
 [![GitHub Streak](https://user-images.githubusercontent.com/39220517/153326420-59e3ab44-d3db-4a89-8fb8-c12708769e13.svg)](https://curriculoadolfopoiatti.netlify.app/#tabs1-conteudo)
 
-# I am improving 🖥️
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# Main Stack
 ![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)]()
+
+# Secondary Stack
 ![NestJS](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=nestjs&logoColor=red)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-243D8F?style=for-the-badge&logo=flutter&logoColor=white)]()
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=pnpm&logoColor=white)
-
- [![Flutter Badge](https://img.shields.io/badge/Flutter-243D8F?style=for-the-badge&logo=flutter&logoColor=white)]()
- 
- [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
- [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
-
- 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+# Cloud
 ![Azure Devops](https://img.shields.io/badge/Azure-79C6FF?style=for-the-badge&logo=AzureDevops&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-%23000000.svg?style=for-the-badge&logo=circleci&logoColor=white)
-<img height="28" src="https://user-images.githubusercontent.com/39220517/154397996-3faf940f-a9ca-424d-917f-2e35e9b556c6.svg"/>
+![Digital Ocean](https://img.shields.io/badge/digital%20ocean-d9d9d9?style=for-the-badge&logo=DigitalOcean&logoColor=black)
+![Prometheus](https://img.shields.io/badge/prometheus-%231D1A27.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 
+# Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+# Others
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Prometheus](https://img.shields.io/badge/prometheus-%231D1A27.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 # Where to find me ? 🔍
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
 [![Behance Badge](https://img.shields.io/badge/Behance-0059F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/adolfopoiatti)
+[![adolfo.poiatti@gmail.com](https://img.shields.io/badge/Gmail-0059F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adolfo.poiatti@gmail.com)
 
 # My Public Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Arkanoid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-GPT3-React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Algorithm-Structure-Data&theme=dark&hide_border=true)](https://github.com/adolfosp/Algorithm-Structure-Data)
+
+# My Private Projects 🚧 
+[![PatrimonioDev](https://github.com/adolfosp/adolfosp/assets/39220517/6e3c8580-0e84-43c1-a04f-afcc11463f82)](https://patrimonio-ps.netlify.app/#/login)
+[![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/94135de0-4a91-47f1-98c5-c4ef3928db51)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
+![AvaliaFarma](https://github.com/adolfosp/adolfosp/assets/39220517/183d0db1-3d5e-49a1-8b14-5fc7cc72422a)
+![Code Docs](https://github.com/adolfosp/adolfosp/assets/39220517/4b908f24-c6a4-4be5-8886-16d035951a7e)
 
 # Analytics ⚙️
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -60,8 +55,4 @@
 # Trophy Stats 🏆
 ![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
 
-# My Private Projects 🚧 
-[![PatrimonioDev](https://github.com/adolfosp/adolfosp/assets/39220517/6e3c8580-0e84-43c1-a04f-afcc11463f82)](https://patrimonio-ps.netlify.app/#/login)
-[![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/94135de0-4a91-47f1-98c5-c4ef3928db51)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
-![AvaliaFarma](https://github.com/adolfosp/adolfosp/assets/39220517/183d0db1-3d5e-49a1-8b14-5fc7cc72422a)
-![Code Docs](https://github.com/adolfosp/adolfosp/assets/39220517/4b908f24-c6a4-4be5-8886-16d035951a7e)
+
