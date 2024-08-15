@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Adolfo+Poiatti;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://user-images.githubusercontent.com/39220517/153326420-59e3ab44-d3db-4a89-8fb8-c12708769e13.svg)](https://curriculoadolfopoiatti.netlify.app/#tabs1-conteudo)
+[![GitHub Streak](https://user-images.githubusercontent.com/39220517/153326420-59e3ab44-d3db-4a89-8fb8-c12708769e13.svg)](https://portifolio-adolfo.netlify.app)
 
 # Main Stack
 ![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
