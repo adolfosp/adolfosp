@@ -37,17 +37,20 @@ Visit my [web site](https://portifolio.asp.dev.br)
 [![Behance Badge](https://img.shields.io/badge/Behance-0059F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/adolfopoiatti)
 [![adolfo.poiatti@gmail.com](https://img.shields.io/badge/Gmail-0059F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adolfo.poiatti@gmail.com)
 
-## My Public Projects 🔥
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Arkanoid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-GPT3-React)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Algorithm-Structure-Data&theme=dark&hide_border=true)](https://github.com/adolfosp/Algorithm-Structure-Data)
+
 
 # My Projects 🚧 
 [![PatrimonioDev](https://github.com/adolfosp/adolfosp/assets/39220517/6e3c8580-0e84-43c1-a04f-afcc11463f82)](https://github.com/adolfosp/Front-PatrimonioDev)
 [![Easy-link](https://github.com/adolfosp/adolfosp/assets/39220517/94135de0-4a91-47f1-98c5-c4ef3928db51)](https://chrome.google.com/webstore/detail/easy-link/gjlpeedapddbjehklgpcnaimipcmmlhd)
 ![AvaliaFarma](https://github.com/adolfosp/adolfosp/assets/39220517/183d0db1-3d5e-49a1-8b14-5fc7cc72422a)
 [![Code Docs](https://github.com/user-attachments/assets/5317b3ac-0bf3-4cad-9082-433db01c3a54)](https://docs-code.netlify.app/)
+<!---
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Arkanoid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-GPT3-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Algorithm-Structure-Data&theme=dark&hide_border=true)](https://github.com/adolfosp/Algorithm-Structure-Data)
+-->
+ 
 
 # Analytics ⚙️
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adolfosp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
