@@ -51,11 +51,3 @@ Visit my [web site](https://portifolio.asp.dev.br)
 -->
  
 
-# Analytics ⚙️
- ![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfosp&show_icons=true&theme=dark&hide_border=true)<br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfosp&langs_count=8&theme=dark&show_icons=true&hide_border=true)](https://github.com/adolfosp/github-readme-stats)
-
-# Trophy Stats 🏆
-![](https://github-profile-trophy.vercel.app/?username=adolfosp&theme=oldie)
-
-
