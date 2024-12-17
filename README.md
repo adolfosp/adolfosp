@@ -49,5 +49,8 @@ Visit my [web site](https://portifolio.asp.dev.br)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/adolfosp/Front-Alpaca-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Algorithm-Structure-Data&theme=dark&hide_border=true)](https://github.com/adolfosp/Algorithm-Structure-Data)
 -->
- 
 
+ # Blog posts 📝
+ [![My Blog]( https://img.shields.io/badge/My-Blog-FFF?style=for-the-badge&logo=Blog&logoColor=white)](https://blog.asp.dev.br/)
+- [Padrões de Resiliência em C#: Explorando Polly, Circuit Breaker e Idempotência](https://blog.asp.dev.br/padroes-de-resiliencia-em-c-explorando-polly-circuit-breaker-e-idempotencia/)
+- [ReDoS em Ação: Um Estudo Prático com C#](https://blog.asp.dev.br/redos-em-acao-um-estudo-pratico-com-c/)
