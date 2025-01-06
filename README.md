@@ -41,6 +41,7 @@ Visit my [web site](https://portifolio.asp.dev.br)
  [![My Blog]( https://img.shields.io/badge/My-Blog-FFF?style=for-the-badge&logo=Blog&logoColor=white)](https://blog.asp.dev.br/)
 - [Padrões de Resiliência em C#: Explorando Polly, Circuit Breaker e Idempotência](https://blog.asp.dev.br/padroes-de-resiliencia-em-c-explorando-polly-circuit-breaker-e-idempotencia/)
 - [ReDoS em Ação: Um Estudo Prático com C#](https://blog.asp.dev.br/redos-em-acao-um-estudo-pratico-com-c/)
+- [Automatizando lançamentos com GitHub Actions: Integração do Semantic Release e geração de Changelog](https://blog.asp.dev.br/automatizando-lancamentos-com-github-actions-integracao-do-semantic-release-e-geracao-de-changelog/)
 
 # My Projects 🚧 
 [![PatrimonioDev](https://github.com/user-attachments/assets/9cb20179-2c30-43b9-8954-e61655bbf5b5)](https://github.com/adolfosp/Front-PatrimonioDev)
