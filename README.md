@@ -29,9 +29,6 @@ Visit my [web site](https://portifolio.asp.dev.br)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-00ED64.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Others
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ## Where to find me ? 🔍
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-poiatti-591b79150/)
 [![Behance Badge](https://img.shields.io/badge/Behance-0059F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/adolfopoiatti)
