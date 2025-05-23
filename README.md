@@ -20,7 +20,7 @@ Visit my [web site](https://portifolio.asp.dev.br)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-243D8F?style=for-the-badge&logo=flutter&logoColor=white)]()
 
 ## Cloud
-![Azure Devops](https://img.shields.io/badge/Azure-79C6FF?style=for-the-badge&logo=AzureDevops&logoColor=white)
+![Azure Devops](https://img.shields.io/badge/Azure%20Devops-79C6FF?style=for-the-badge&logo=AzureDevops&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/digital%20ocean-d9d9d9?style=for-the-badge&logo=DigitalOcean&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/prometheus-%231D1A27.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 
