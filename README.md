@@ -40,8 +40,10 @@ Visit my [web site](https://portifolio.asp.dev.br)
 - [ReDoS em Ação: Um Estudo Prático com C#](https://blog.asp.dev.br/redos-em-acao-um-estudo-pratico-com-c/)
 - [Automatizando lançamentos com GitHub Actions: Integração do Semantic Release e geração de Changelog](https://blog.asp.dev.br/automatizando-lancamentos-com-github-actions-integracao-do-semantic-release-e-geracao-de-changelog/)
 - [Events e Delegates em C#: Conceitos e Exemplos Práticos](https://blog.asp.dev.br/events-e-delegates-em-c-conceitos-e-exemplos-praticos/)
+### Série - Hands-On Network Programming with C# and .NET Core
 - [Resumo do Livro Hands-On Network Programming with C# and .NET Core - Parte 1](https://blog.asp.dev.br/resumo-do-livro/)
 - [Resumo do Livro Hands-On Network Programming with C# and .NET Core - Parte 2](https://blog.asp.dev.br/resumo-do-livro-hands-on-network-programming-with-c-and-net-core-parte-2/)
+- [Resumo do Livro Hands-On Network Programming with C# and .NET Core - Parte 3](https://blog.asp.dev.br/resumo-do-livro-hands-on-network-programming-with-c-and-net-core-parte-3/)
 
 # My Projects 🚧 
 [![PatrimonioDev](https://github.com/user-attachments/assets/9cb20179-2c30-43b9-8954-e61655bbf5b5)](https://github.com/adolfosp/Front-PatrimonioDev)
