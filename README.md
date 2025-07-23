@@ -42,7 +42,7 @@ Visit my [web site](https://portifolio.asp.dev.br)
 - [Events e Delegates em C#: Conceitos e Exemplos Práticos](https://blog.asp.dev.br/events-e-delegates-em-c-conceitos-e-exemplos-praticos/)
 
 <details>
-    <summary>Série - Hands-On Network Programming with C# and .NET Core</summary>
+    <summary>Série - <strong>Hands-On Network Programming with C# and .NET Core</strong></summary>
     - <a href="https://blog.asp.dev.br/resumo-do-livro/">Resumo do Livro Hands-On Network Programming with C# and .NET Core - Parte 1</a> <br/>
     - <a href="https://blog.asp.dev.br/resumo-do-livro-hands-on-network-programming-with-c-and-net-core-parte-2/">Resumo do Livro Hands-On Network Programming with C# and .NET Core - Parte 2</a> <br/>
     - <a href="https://blog.asp.dev.br/resumo-do-livro-hands-on-network-programming-with-c-and-net-core-parte-3/">Resumo do Livro Hands-On Network Programming with C# and .NET Core - Parte 3</a> <br/>
